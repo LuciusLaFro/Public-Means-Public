@@ -359,6 +359,21 @@ padding-right: 150px;
     background-image: linear-gradient();
 }
 
+@media screen and (max-width: 768px) {
+    .main__content h1 {
+        font-size: 60;
+    }
+    .main__content h2 {
+        font-size: 60;
+    }
+    .main__content h3 {
+        font-size: 60;
+    }
+    .main__content p {
+        font-size: 40;
+    }
+}
+
 /* About Section */
 .services {
     background: #fff;
